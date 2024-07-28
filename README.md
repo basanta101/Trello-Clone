@@ -40,3 +40,7 @@ Start the server
 **Client:** Next.js 14,
 
 **Server:** Supabase
+
+## TODO:
+1. Add error handling for all API calls.
+2. Add Loader usage to API calls
