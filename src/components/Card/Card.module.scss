@@ -1,0 +1,28 @@
+.card {
+    background: #e7e7e7;
+    // background-color: #e74c3c;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #000;
+    // color: #fff;
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .name {
+      font-size: 18px;
+    }
+
+    .description {
+      font-size: 14px;
+      margin-top: 12px;
+    }
+
+    .edit-button {
+      padding: 2px 4px;
+    }
+  }

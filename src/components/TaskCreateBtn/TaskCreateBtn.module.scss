@@ -1,0 +1,14 @@
+.button {
+    padding: 12px 0;
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: column;
+
+    .modal-body-input-field {
+        display: flex;
+        flex-direction: column;
+        margin-top: 12px;
+    }
+}
